@@ -11,6 +11,9 @@
 	package="com.bestsoftcorporation.circle.app"
 	android:versionCode="101"
         android:versionName="2.0">
+	<uses-permission tools:node="remove" android:name="android.permission.READ_PHONE_STATE" />
+        <uses-permission tools:node="remove" android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission tools:node="remove" android:name="android.permission.READ_EXTERNAL_STORAGE" />
 	
 	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
