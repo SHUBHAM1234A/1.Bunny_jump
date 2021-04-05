@@ -1,0 +1,31 @@
+﻿{
+	"version": 1617546161,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/ground_grass-sheet0.png",
+		"images/bunny1_stand-sheet0.png",
+		"images/bunny1_stand-sheet1.png",
+		"images/gold_-sheet0.png",
+		"images/gold_-sheet1.png",
+		"images/gold_-sheet2.png",
+		"images/sprite-sheet0.png",
+		"images/tiledbackground.png",
+		"images/sprite2-sheet0.png",
+		"images/transparentdarksheet-sheet0.png",
+		"images/transparentdark2sheet-sheet0.png",
+		"media/kiwi_death.ogg",
+		"media/stalactite.ogg",
+		"media/reflect.ogg",
+		"media/vexento - pixel party.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
